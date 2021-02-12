@@ -18,7 +18,8 @@ brew tap phinze/homebrew-cask
 brew tap homebrew/binary
 
 # Packages for brew-cask
-brew install brew-cask
+#brew install brew-cask
+brew install cask
 
 # Packages for development
 brew install git
