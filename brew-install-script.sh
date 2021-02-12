@@ -35,22 +35,20 @@ brew install jq
 brew install awscli
 
 # .dmg from brew-cask
-brew cask install iterm2
-brew cask install google-chrome
-brew cask install virtualbox
-brew cask install vagrant
-# brew cask install kobito
-# brew cask install dropbox
-# brew cask install firefox
-brew cask install google-japanese-ime
-brew cask install appcleaner
-brew cask install intellij-idea
-brew cask install freemind
-brew install docker
-brew cask install github-desktop
-brew install basex
-brew cask install hyper
-brew cask install slack
+brew install --cask iterm2
+brew install --cask iterm2
+brew install --cask google-chrome
+brew install --cask virtualbox
+brew install --cask vagrant
+brew install --cask google-japanese-ime
+brew install --cask appcleaner
+brew install --cask intellij-idea
+brew install --cask freemind
+brew install --cask docker
+brew install --cask github-desktop
+brew install --cask basex
+brew install --cask hyper
+brew install --cask slack
 
 
 ## add
