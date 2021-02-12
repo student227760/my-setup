@@ -64,6 +64,7 @@ brew install --cask wine-stable
 brew install --cask pycharm
 brew install --cask datagrip
 brew install terraform
+brew install tfenv
 brew install sourcetree 
 
 
