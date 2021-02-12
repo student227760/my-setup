@@ -65,6 +65,7 @@ brew install --cask zoom
 brew install --cask wine-stable
 brew install --cask pycharm
 brew install --cask datagrip
+brew install terraform
 
 
 # Remove outdated versions
