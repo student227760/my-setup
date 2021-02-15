@@ -40,7 +40,8 @@ brew install --cask iterm2
 brew install --cask google-chrome
 brew install --cask virtualbox
 brew install --cask vagrant
-brew install --cask google-japanese-ime
+
+brew cask install google-japanese-ime
 brew install --cask appcleaner
 brew install --cask intellij-idea
 brew install --cask freemind
