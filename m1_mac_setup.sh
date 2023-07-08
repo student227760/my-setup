@@ -28,6 +28,8 @@ brew install typora
 brew install google-drive
 brew install microsoft-teams
 brew install zoom
+brew install deepl
+brew install xmind  
 
 ## mas
 
