@@ -30,6 +30,8 @@ brew install microsoft-teams
 brew install zoom
 brew install deepl
 brew install xmind  
+brew install sourcetree
+
 
 ## mas
 
