@@ -31,6 +31,7 @@ brew install zoom
 brew install deepl
 brew install xmind  
 brew install sourcetree
+brew install google-cloud-sdk
 
 
 ## mas
