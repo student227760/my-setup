@@ -12,6 +12,7 @@ winget install GitHub.cli
 winget install Amazon.Music
 winget install Amazon.Kindle
 winget install XPFCC4CD725961
+winget install Notion.Notion
 
 ## 手動インストール（wingetに含まれないアプリ）
 LastpassDesktop
